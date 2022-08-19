@@ -1,0 +1,3 @@
+exportPattern("^[^\\.]")
+importFrom("kStatistics","nPerm","mkT","list2Set")
+
